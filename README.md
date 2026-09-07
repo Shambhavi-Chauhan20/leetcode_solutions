@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
