@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [2413-smallest-even-multiple](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
