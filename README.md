@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
