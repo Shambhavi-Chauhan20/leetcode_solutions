@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
