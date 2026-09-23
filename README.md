@@ -33,6 +33,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0344-reverse-string) |
