@@ -42,6 +42,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
