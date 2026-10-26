@@ -66,6 +66,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 ## Matrix
 |  |
@@ -126,5 +128,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
