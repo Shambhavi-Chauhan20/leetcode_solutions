@@ -38,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -69,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -77,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +89,7 @@
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
