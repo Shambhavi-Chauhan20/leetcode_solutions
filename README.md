@@ -35,6 +35,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shambhavi-Chauhan20/leetcode_solutions/tree/master/0268-missing-number) |
 ## Two Pointers
